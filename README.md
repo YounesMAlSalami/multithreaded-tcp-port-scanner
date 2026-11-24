@@ -1,4 +1,4 @@
-# Assignment 05 — Multithreaded TCP Port Scanner
+Multithreaded TCP Port Scanner
 
 **Author:** Younes Al-Salami  
 **Track:** Cybersecurity Programming Bootcamp  
